@@ -1,0 +1,2 @@
+all:
+	gcc -g -Wall -o pth_grayscale grayscale_pthread.c -lpthread
